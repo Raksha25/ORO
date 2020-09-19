@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&family=Roboto&display=swap");
+.container {
+  position: relative;
+}
+.topbar {
+  height: 11vh;
+  background-color: #250656;
+
+  display: flex;
+  justify-content: space-between;
+}
+
+#logo {
+  align-self: center;
+  height: 8vh;
+  /* background: white; */
+  margin-top: 1vw;
+  margin-left: 3vw;
+}
+
+#optionContainer {
+  margin: auto 0;
+  /* background: grey; */
+  float: right;
+}
+#betaTag {
+  position: relative;
+  background: white;
+  border-radius: 8px;
+  border: none;
+  font-family: "Roboto";
+  font-size: 12px;
+  font-weight: 700;
+  padding: 4px 5px;
+  margin-left: 7px;
+  bottom: 2px;
+}
+.topbarOption {
+  background: #250656;
+  outline: none;
+  margin-right: 2.7vw;
+  font-size: 1rem;
+  border: none;
+  color: rgba(255, 255, 255, 0.8);
+  cursor: pointer;
+  padding-bottom: 7px;
+  border-bottom: 2px none solid;
+  font-weight: 500;
+  border-bottom: 1.5px rgba(255, 255, 255, 0) solid;
+}
+.active {
+  border-bottom: 1px white solid;
+}
+
+.login {
+  height: 10in;
+  margin-right: 3rem;
+  overflow: visible !important;
+}
+.login:hover {
+  cursor: pointer;
+  /* box-shadow: 1px 1px 5px rgba(128, 128, 128, 0.5); */
+}

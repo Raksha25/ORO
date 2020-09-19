@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&family=Roboto&display=swap");
+
+.S2container {
+  margin: 4rem 12rem 5rem 10rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.team-sec {
+  /* box-shadow: rgba(0,0,0,0.1) 2px 2px 10px; */
+  text-align: justify;
+  margin: auto 0;
+  width: 30rem;
+  padding: 3rem 2rem;
+  border-radius:25px;
+  display: flex;
+  flex-direction: column;
+}
+.headings {
+  text-align: center;
+  font-size: 50px;
+  font-weight: 500;
+  font-family: "Poppins";
+  margin-bottom: 2rem;
+}
+.para-txt {
+  font-family: "Roboto";
+  font-size: 20px;
+}

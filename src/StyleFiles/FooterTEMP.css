@@ -1,0 +1,69 @@
+@import url("https://fonts.googleapis.com/css2?family=B612:wght@300&display=swap");
+.footerContainer {
+  width: 85%;
+  margin: 1.3rem auto;
+  margin-top: 10rem;
+}
+.label {
+  text-align: center;
+  font-size: 50px;
+  font-weight: 200;
+  font-family: "B612";
+}
+#sec1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.dashedLine {
+  width: 25rem;
+  margin-top: 2rem;
+  border-top: 2px dashed #351269;
+
+  /* transform: scale(5,1); */
+}
+#sec2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 95%;
+  margin: 1.5rem auto 0 auto;
+}
+.F-content {
+  /* background-color: burlywood; */
+  width: 25%;
+  text-align: center;
+  font-size: 1.2rem;
+  list-style: none;
+  font-family: Roboto;
+  display: flex;
+  flex-direction: column;
+}
+.F-content li {
+  padding: 0.8rem 0;
+}
+#sm {
+  display: flex;
+  flex-direction: row;
+  margin-top: 1rem;
+  align-self: center;
+}
+
+.smIcon {
+  padding: 1rem 2rem 2rem 2rem;
+  
+}
+
+#FC-dashedLine {
+  align-self: center;
+  height: 4rem;
+  border-left: 2.5px dashed #351269;
+}
+#sec2b {
+  /* align-self: center; */
+
+  /* background-color: chartreuse; */
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+}
