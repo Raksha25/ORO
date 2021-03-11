@@ -1,6 +1,6 @@
 This is a website for logistics handling company.
-![sign in page](https://github.com/Raksha25/images/blob/main/OROlanding.png)
-![landing page](https://github.com/Raksha25/images/blob/main/ORO1.PNG)
+![sign in page](https://github.com/Raksha25/images/blob/main/ORO1.PNG)
+![landing page](https://github.com/Raksha25/images/blob/main/OROlanding.png)
 ![sign up page](https://github.com/Raksha25/images/blob/main/ORO4.PNG)
 
 ## Available Scripts
