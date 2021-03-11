@@ -1,5 +1,5 @@
 This is a website for logistics handling company.
-![landing page](https://ibb.co/t2n3602)
+![landing page](https://github.com/Raksha25/images/blob/main/ORO1.PNG)
 ![sign in page](https://ibb.co/qrWzMYz)
 ![sign up page](https://ibb.co/qd9GdMZ)
 
